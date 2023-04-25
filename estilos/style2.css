@@ -131,9 +131,8 @@ gap: 80px;
     width: auto;
 }
 }
-@media (max-width: 480px) {
+@media (max-width: 400px) {
 .cabecalio {
-    
     display: flex;
     zoom: 85%;
 }
@@ -142,5 +141,12 @@ gap: 80px;
      zoom: 85%;
         
     }
-
+.principal__conteudo__titulo {
+    width: auto;
 }
+.links__h2 {
+    width: 80%;
+}
+}
+
+
