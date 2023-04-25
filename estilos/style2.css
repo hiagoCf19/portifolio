@@ -131,3 +131,14 @@ gap: 80px;
     width: auto;
 }
 }
+@media (max-width: 480px) {
+.cabecalio {
+    
+    display: flex;
+    zoom: 85%;
+}
+.cabecalio__menu {
+        justify-content: center;
+    }
+
+}
