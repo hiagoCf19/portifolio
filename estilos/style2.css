@@ -135,10 +135,12 @@ gap: 80px;
 .cabecalio {
     
     display: flex;
-    zom: 87%;
+    zoom: 85%;
 }
 .cabecalio__menu {
-        justify-content: center;
+    justify-content: center;
+     zoom: 85%;
+        
     }
 
 }
