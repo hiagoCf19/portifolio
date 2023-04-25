@@ -119,25 +119,28 @@ gap: 80px;
 
  .cabecalio {
         padding: 6%;
+        
      } 
 .cabecalio__menu {
-    justify-content: center;
+    
+justify-content: center;
 }
 .principal {
     flex-direction: column-reverse;
     padding: 5%;
+    zoom: 85%;
 }
 .principal__conteudo {
     width: auto;
+    zoom: 85%;
 }
 }
-@media (max-width: 400px) {
+@media (max-width: 480px) {
 .cabecalio {
     display: flex;
     zoom: 85%;
 }
 .cabecalio__menu {
-    justify-content: center;
      zoom: 85%;
         
     }
